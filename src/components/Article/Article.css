@@ -1,0 +1,36 @@
+.article{
+    background-color: #004D69;
+    opacity: 0.9;
+    border-radius: 10px;
+    color: #ffffff;
+    width: 100%;
+    position: relative;
+    padding: 50px;
+}
+
+.article__title{
+    text-align: center;
+    color: #fff;
+}
+
+.article__title::after{
+    background-color: #0C2948;
+    border: 1.5px solid #ffffff;
+    border-radius: 30px;
+    content: "";
+    display: block;
+    margin: 1rem;
+}
+
+.article__content{
+    text-align: center;
+    font-weight: 700;
+}
+
+@media screen and (min-width: 768px){
+    .article{
+        /* border: 1px solid rgb(134, 134, 134); */
+        margin: 30px auto 0;
+        width: 75%;
+    }
+}

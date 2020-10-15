@@ -1,0 +1,32 @@
+.profile__container{
+    /* background-color: #fff; */
+    border-radius: 5px;
+    margin: 30px;
+    min-width: 350px;
+    padding: 30px;
+}
+
+.profile__image{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.profile__name{
+    color: rgb(200, 200, 200);
+    text-align: center;
+}
+
+.profile__name::after{
+    background-color: rgb(134, 134, 134);
+    border: 1px solid rgb(134, 134, 134);
+    content: '';
+    display: block;
+}
+
+.profile__title{
+    color: rgb(200, 200, 200);
+    text-align: center;
+}

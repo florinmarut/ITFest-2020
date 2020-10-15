@@ -1,0 +1,34 @@
+.event__container{
+    background-color: #004D69;
+    opacity: 0.9;
+    border-radius: 30px;
+    color: #fff;
+    padding: 15px;
+    margin: 30px;
+    max-width: 500px;
+    position: relative;
+    text-align: center;
+}
+
+.event__image__container{
+    width: 100%;
+    height: 200px;
+}
+
+.event__image{
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.event__title::after{
+    background-color: rgb(134, 134, 134);
+    border: 1px solid rgb(134, 134, 134);
+    content: '';
+    display: block;
+}
+
+.event__details {
+    text-align: justify;
+}
