@@ -13,10 +13,8 @@ ce includ workshopuri și competiții dedicate tinerilor pasionați de IT.
         ITFest propune, de asemenea, și evenimente orientate către socializare: Lan Party-uri pentru gameri, precum și concursul iCONical pentru iubitorii de cosplay. { " " } 
         </h3> 
         <Link to = { "/evenimente" }> { " " } 
-        <Button text="Vezi evenimentele" /> { " " } <
-        /Link>{" "} 
-        <
-        /article>
+        <Button text="Vezi evenimentele" /> { " " } </Link>{" "} 
+        </article>
     );
 }
 

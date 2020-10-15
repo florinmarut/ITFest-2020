@@ -1,7 +1,7 @@
 const partners = [
     {
         name: "UVT",
-        imageUrl: "https://www.uvt.ro/res/img/logo/Logo%20UVT%20-%202017-01.png",
+        imageUrl: "https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/logos_uvt.png?alt=media&token=e1bc1394-e9f9-442f-8b4a-c0c8ae16647e",
         link: "https://www.uvt.ro/ro/"
     },
     {

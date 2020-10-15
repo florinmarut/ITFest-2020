@@ -17,7 +17,7 @@ function ParticlesBackground(){
       }
     },
     color: {
-      value: ["#2EB67D", "#ECB22E", "#E01E5B", "#36C5F0"]
+      value: ["#00ffff", "#004d69", "#037a96", "#20baac"]
     },
     shape: {
       type: ["circle"],
