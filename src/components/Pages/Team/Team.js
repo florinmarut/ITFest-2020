@@ -10,7 +10,7 @@ function Team(){
      {teamList.map((item) => {
          return <ProfileCard img={item.img} name={item.name} title={item.title}/>
      })}
-     <ParticlesBackground />
+     {/* <ParticlesBackground /> */}
     </div>);
 }
 

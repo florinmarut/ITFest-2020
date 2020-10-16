@@ -8,7 +8,6 @@ function Home(){
     return (<div className="home-container">
             <Header />
             <Article />
-            <ParticlesBackground />
     </div>);
 }
 

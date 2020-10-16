@@ -33,7 +33,9 @@ const Card = (props) => {
         <Button text = 'Trimite' / >
         </form>  */}
         <div className='contact-data__container'>
-        <Button text="Trimite-ne un mesaj"/>
+        <a href="https://m.me/ITFestTimisoara">
+            <Button text="Trimite-ne un mesaj"/>
+        </a>
         {/* {DateContact.map((item) => {
             return (<div> 
             <h3>{item.nume}</h3>

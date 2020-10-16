@@ -13,7 +13,7 @@ function Events() {
         return <EventCard img={event.img} title={event.title} description={event.description}
             date={event.date} hours={event.hours}/>
     })}
-    <ParticlesBackground />
+    {/* <ParticlesBackground /> */}
     </div>
     <h1 className="events__title">CONCURSURI</h1>
     <div className='events__container'>

@@ -1,6 +1,7 @@
 import React from 'react';
 import Particles from 'react-particles-js';
 import './ParticlesBackground.css';
+import BIRDS from 'vanta/dist/vanta.birds.min'
 
 function ParticlesBackground(){
     return (<div className='particles-background'>

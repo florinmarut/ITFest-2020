@@ -9,7 +9,7 @@ function Sponsors(){
        {partners.map((item) => {
            return <a href={item.link}><Image url={item.imageUrl}/></a>
        })}
-       <ParticlesBackground />
+       {/* <ParticlesBackground /> */}
     </div>);
 }
 

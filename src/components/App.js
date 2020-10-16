@@ -22,7 +22,8 @@ function App() {
             <Route path='/contact' component={Contact}/>
         </Switch>
         <Footer />
-        {/* <ParticlesBackground /> */}
+        <ParticlesBackground />
+        <script src="three.r119.min.js"></script>
     </div>
     </Router>);
 }
