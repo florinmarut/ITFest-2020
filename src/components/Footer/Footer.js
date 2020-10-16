@@ -11,9 +11,10 @@ function Footer(){
                 <li><i class="footer-icon fas fa-phone"></i>0256 592 181</li>
                 <li><i class="footer-icon far fa-envelope"></i>itfest@osut.ro</li>
             </ul>
-            <ul className='footer__info'>
-                <li><i class="footer-icon fab fa-facebook"></i><a href="https://www.facebook.com/ITFestTimisoara">Check us on Facebook</a></li>
-                <li><i class="footer-icon fab fa-instagram"></i><a href="https://www.instagram.com/itfest.timisoara/">Oh... and we're also on Instagram</a></li>
+            <div className='footer__separator'></div>
+            <ul className='footer__info--social'>
+                <li><a href='https://www.facebook.com/ITFestTimisoara'><i class="footer-icon fab fa-facebook fa-3x"></i></a></li>
+                <li><a href='https://www.instagram.com/itfest.timisoara/'><i class="footer-icon fab fa-instagram fa-3x"></i></a></li>
             </ul>
             <p className='footer__copyright'>Copyright © 2020 ITFest</p>
         </div>
