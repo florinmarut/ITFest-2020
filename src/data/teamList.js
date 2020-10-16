@@ -27,7 +27,7 @@ const team = [
         title: 'Responsabil Imagine'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/adela.jpg?alt=media&token=7af225a1-96a0-456f-9daa-c6d80d2ef021',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/adela.jpg?alt=media&token=ee7855ed-894c-4ab0-80e3-d4c3ec4992b5',
         name: 'Adela Diana Dînşorean',
         title: 'Responsabil Task Management'
     },
