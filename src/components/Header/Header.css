@@ -1,4 +1,9 @@
 .header{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/itfest_motto.svg?alt=media&token=dd7449e0-de36-42ba-a370-96a027085a12');
     width: 100%;
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
     position: relative;
 }

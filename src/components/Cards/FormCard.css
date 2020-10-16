@@ -3,7 +3,8 @@
     color: #ffffff;
     opacity: 0.9;
     border-radius: 50px;
-    width: 90%;
+    width: 50%;
+    min-width: 15rem;
     margin: auto;
     padding: 15px;
     position: relative;
@@ -35,6 +36,7 @@
         display: flex;
         text-align: left;
         justify-content: center;
+        text-align: center;
     }
     
     .input__field{

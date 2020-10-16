@@ -6,6 +6,7 @@
     width: 100%;
     position: relative;
     padding: 50px;
+    padding-top: 10px;
 }
 
 .article__title{
