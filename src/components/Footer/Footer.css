@@ -19,6 +19,14 @@
     position: relative;
 }
 
+.footer__container--logo{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+
 .footer__info{
     list-style-type: none;
     padding-bottom: 30px;
@@ -84,7 +92,7 @@
         content: '';
         display: inline-block;
         position: absolute;
-        height: 150px;
+        height: 175px;
         top: 20%;
         right: 35%;
     }
@@ -95,8 +103,12 @@
         content: '';
         display: inline-block;
         position: absolute;
-        height: 150px;
+        height: 175px;
         top: 20%;
         left: 40%;
+    }
+
+    .footer__copyright{
+        left: 60px;
     }
 }

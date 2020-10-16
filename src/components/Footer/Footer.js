@@ -5,7 +5,11 @@ function Footer(){
     const logoURI = 'https://abc.osut.ro/img/logouri%202020/12-01.png?fbclid=IwAR05zlb_tFLtxO5ONaSywkCnliJUZekjwp9NjXr5x0CWzwMoNlRsycreSNY';
     return (<footer className='footer'>
         <div className='footer__container'>
+        <div className='footer__container--logo'>
             <img src={logoURI} alt='OSUT' className='footer__logo'></img>
+            <p className='footer__'>Finanțat de CJIT</p>
+        </div>
+        <div className='footer__separator'></div>
             <ul className='footer__info'>
                 <li><i class="footer-icon fas fa-map-marker-alt"></i>Timișoara</li>
                 <li><i class="footer-icon fas fa-phone"></i>0256 592 181</li>
