@@ -9,8 +9,8 @@ const EventCard = (props) => {
     </div>
     <h1 className='event__title'>{props.title}</h1>
     <p className='event__details'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{props.description}</p>
-    <h3>Deadline înscriere: {props.deadline}</h3>
-    <h3>Data: {props.date}</h3>
+    <h3 className="info">Deadline înscriere: {props.deadline}</h3>
+    <h3 className="info">Data: {props.date}</h3>
     <Button text='Înscrie-te'/>
     </div>)
 }

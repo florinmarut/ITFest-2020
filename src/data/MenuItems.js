@@ -12,8 +12,8 @@ const items = [
         route:'/desprenoi'
     },
     {
-        name:'Sponsori',
-        route:'/sponsori'
+        name:'Parteneri',
+        route:'/parteneri'
     },
     {
         name:'Contact',
