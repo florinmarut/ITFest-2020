@@ -19,7 +19,7 @@ const workshop_events = [
         img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
         title: 'Webinar Cristian Dascălu',
         description: 'Despre bani în freelancing.',
-        date: '18:00',
+        date: '04.11.2020',
         hours: '14:00-16:00',
         deadline: '03.11.2020'
     },
@@ -70,7 +70,7 @@ const concurs_events = [
 
 const lanparty_events = [
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/rocket_league.jpg?alt=media&token=0f201611-cf1d-4348-afff-948cbb888df2',
         title: 'ROCKET LEAGUE',
         description: '',
         date: '27.10.2020',
@@ -78,7 +78,7 @@ const lanparty_events = [
         deadline: '01.11.2020'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lan%20party%20pics%2FHS_small.png?alt=media&token=1e8a9307-3094-4ccd-b04a-f4d00b5115fe',
         title: 'HEARTHSTONE',
         description: '',
         date: '27.10.2020',
@@ -86,7 +86,7 @@ const lanparty_events = [
         deadline: '01.11.2020'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lan%20party%20pics%2FLOL_small.png?alt=media&token=4ad0fac5-f926-4ba0-b813-423d9f3d1aba',
         title: 'LEAGUE OF LEGENDS',
         description: '',
         date: '27.10.2020',
@@ -94,7 +94,7 @@ const lanparty_events = [
         deadline: '01.11.2020'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/boardsgames_small.png?alt=media&token=f9d74eec-af1f-4b25-a1c4-1b7d08557f74',
         title: 'BOARD GAMES',
         description: '',
         date: '27.10.2020',
@@ -102,7 +102,7 @@ const lanparty_events = [
         deadline: '01.11.2020'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lan%20party%20pics%2FCSGO_small.png?alt=media&token=7ffebe32-4004-462f-8aa1-748a88efd6f9',
         title: 'CS:GO',
         description: '',
         date: '27.10.2020',

@@ -18,6 +18,11 @@ const partners = [
         name: "ANOSR",
         imageUrl: "https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/logos_anosr.png?alt=media&token=72b6b6e8-0bed-4c87-ad09-a90dbc0aee9d",
         link: "https://www.anosr.ro/"
+    },
+    {
+        name: "MYPC",
+        imageUrl: "https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/my_pc_cu_site-removebg-preview.png?alt=media&token=a35bf8f5-fe06-44cc-8a71-60d591324854",
+        link: "https://mypctm.ro/"
     }
 ]
 

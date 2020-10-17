@@ -26,7 +26,7 @@ const team = [
         fb: 'https://www.facebook.com/sergiu.rachiteanu'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/alex.jpg?alt=media&token=0a05a7fa-4729-42d9-a591-39ca569b5318',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/team%2Fstefan.png?alt=media&token=4de6bb3c-5f11-4b1b-9b30-5b138695f4b0',
         name: 'Ștefan-Alex Jieanu',
         title: 'Responsabil IT',
         phone: '0757 639 068',
