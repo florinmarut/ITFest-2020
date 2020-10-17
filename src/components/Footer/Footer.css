@@ -25,6 +25,7 @@
     flex-direction: column;
     justify-content: space-around;
     margin-bottom: 15px;
+    padding-left: 15px;
 }
 
 .footer__info{
@@ -53,7 +54,6 @@
 
 .footer__logo{
     max-width: 200px;
-    margin-left: 15px;
 }
 
 .footer__separator{
@@ -94,7 +94,7 @@
         position: absolute;
         height: 175px;
         top: 20%;
-        right: 35%;
+        right: 25%;
     }
 
     .footer__info::before{
@@ -105,10 +105,10 @@
         position: absolute;
         height: 175px;
         top: 20%;
-        left: 40%;
+        left: 30%;
     }
 
     .footer__copyright{
-        left: 60px;
+        left: 55px;
     }
 }
