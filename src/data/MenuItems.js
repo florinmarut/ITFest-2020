@@ -8,8 +8,8 @@ const items = [
         route:'/evenimente'
     },
     {
-        name:'Echipă',
-        route:'/echipa'
+        name:'Despre noi',
+        route:'/desprenoi'
     },
     {
         name:'Sponsori',

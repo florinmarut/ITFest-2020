@@ -7,13 +7,13 @@ function Footer(){
         <div className='footer__container'>
         <div className='footer__container--logo'>
             <img src={logoURI} alt='OSUT' className='footer__logo'></img>
-            <p className='footer__'>Finanțat de CJT</p>
+            <p className='footer__'>Finanțat de CJTimiș</p>
         </div>
         <div className='footer__separator'></div>
             <ul className='footer__info'>
-                <li><i class="footer-icon fas fa-map-marker-alt"></i>Timișoara</li>
-                <li><i class="footer-icon fas fa-phone"></i>0256 592 181</li>
-                <li><i class="footer-icon far fa-envelope"></i>itfest@osut.ro</li>
+                <li><i class="footer-icon fas fa-map-marker-alt"></i>bd. Vasile Pârvan nr. 4, etaj 2, cam. 247</li>
+                <li><i class="footer-icon fas fa-phone"></i>(+40) 256 592 181 </li>
+                <li><i class="footer-icon far fa-envelope"></i>office@osut.ro</li>
             </ul>
             <div className='footer__separator'></div>
             <ul className='footer__info--social'>

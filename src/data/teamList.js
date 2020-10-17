@@ -52,7 +52,7 @@ const team = [
     {
         img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/delia.jpg?alt=media&token=eaa130d6-70e6-4bca-acb0-98eab7377dfe',
         name: 'Delia Andreea Didiță',
-        title: 'Responsabil conferinte și workshopuri',
+        title: 'Responsabil Conferințe și Workshopuri',
         phone: '0749 509 309',
         mail: 'delia.didita00@e-uvt.ro',
         fb: 'https://www.facebook.com/DiditaDeliaAndreea'

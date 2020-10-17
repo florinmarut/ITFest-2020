@@ -33,7 +33,7 @@ const concurs_events = [
     {
         img: 'https://image.freepik.com/free-vector/blue-cyber-future-technology-concept-background_42077-488.jpg',
         title: 'CAPTURE THE FLAG',
-        description: 'Concursul constă în exploatarea unui anumit site pentru a găsi vulnerabilităti atât in fron/backend-ul acestuia, cât și in baza sa de date.',
+        description: 'Concursul constă în exploatarea unui anumit site pentru a găsi vulnerabilități atât in front/backend-ul acestuia, cât și in baza sa de date.',
         date: '27.10.2020',
         hours: '14:00-16:00'
     },
