@@ -73,6 +73,14 @@ const team = [
         mail: 'darian.voda00@e-uvt.ro',
         fb: 'https://www.facebook.com/Darian.Florian/'
     },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/voda.jpg?alt=media&token=5378b695-bcfc-4025-bca0-e4d358b4eb40',
+        name: 'Adrian-Alexandru Breha',
+        title: 'Președinte OSUT',
+        phone: '0748 322 663',
+        mail: 'adrian@osut.ro',
+        fb: 'https://www.facebook.com/AdrianBreha'
+    },
 ];
 
 export default team;

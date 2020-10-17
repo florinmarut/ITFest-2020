@@ -13,6 +13,11 @@ const partners = [
         name: "CJT",
         imageUrl: "https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/cjt.png?alt=media&token=2f0441f1-81f3-413a-bcb7-063c193a85d6",
         link: "www.cjtimis.ro"
+    },
+    {
+        name: "ANOSR",
+        imageUrl: "https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/logos_anosr.png?alt=media&token=72b6b6e8-0bed-4c87-ad09-a90dbc0aee9d",
+        link: "https://www.anosr.ro/"
     }
 ]
 

@@ -21,7 +21,9 @@
 
 .text {
     color: #fff;
+    text-align: left;
 }
+
 
 @media screen and (min-width: 768px){
     .text {
