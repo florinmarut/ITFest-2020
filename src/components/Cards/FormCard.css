@@ -1,12 +1,8 @@
 .card__container {
-    background-color: #004D69;
     color: #ffffff;
-    opacity: 0.9;
-    border-radius: 50px;
     width: 50%;
     min-width: 15rem;
-    margin: auto;
-    padding: 15px;
+    margin: 50% auto 0;
     position: relative;
     text-align: center;
 }
@@ -15,37 +11,12 @@
     color: rgb(255, 255, 255);
 }
 
-.input__field {
-    border-radius: 5px;
-    border: 1px solid #272767;
-    display: block;
-    font-size: 1.2rem;
-    font-weight: 700;
-    text-align: center;
-    min-height: 3rem;
-    min-width: 35%;
-    margin: 15px auto;
-}
-
-#input__checkbox{
-    margin: 7.5% 5px 7.5% 5%;
-}
-
 @media screen and (min-width: 768px) {
     .card__container{
         display: flex;
         text-align: left;
         justify-content: center;
+        margin: auto;
         text-align: center;
-    }
-    
-    .input__field{
-        margin: 15px 15px;
-    }
-
-    .contact-data__container{
-        display: flex;
-        flex-direction: column;
-        margin: 70px 50px;
     }
 }

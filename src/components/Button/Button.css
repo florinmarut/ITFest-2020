@@ -12,7 +12,6 @@
     text-shadow:0px 1px 0px #2f6627;
     transition: background-color 0.3s ease-in;
 	width: 100%;
-	bottom: 0;
 }
 .button:hover {
 	background-color:#0c2948;
