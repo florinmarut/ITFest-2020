@@ -8,7 +8,7 @@ function Team(){
     return (
     <div className='team__container'>
      {teamList.map((item) => {
-         return <ProfileCard img={item.img} name={item.name} title={item.title}/>
+         return <ProfileCard img={item.img} name={item.name} title={item.title} phone={item.phone} mail={item.mail} fb={item.fb}/>
      })}
      {/* <ParticlesBackground /> */}
     </div>);

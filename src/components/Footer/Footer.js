@@ -7,7 +7,7 @@ function Footer(){
         <div className='footer__container'>
         <div className='footer__container--logo'>
             <img src={logoURI} alt='OSUT' className='footer__logo'></img>
-            <p className='footer__'>Finanțat de CJIT</p>
+            <p className='footer__'>Finanțat de CJT</p>
         </div>
         <div className='footer__separator'></div>
             <ul className='footer__info'>
