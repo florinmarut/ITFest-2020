@@ -7,7 +7,7 @@ import './Sponsors.css'
 function Sponsors(){
     return (<div className="sponsors-container">
        {partners.map((item) => {
-           return <a href={item.link}><Image url={item.imageUrl}/></a>
+           return <a href={item.link}><Image className="sponsor-image" url={item.imageUrl}/></a>
        })}
        {/* <ParticlesBackground /> */}
     </div>);
