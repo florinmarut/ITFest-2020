@@ -1,10 +1,43 @@
 const workshop_events = [
     {
         img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
-        title: 'WORKSHOPURI ȘI CONFERINȚE',
-        description: 'În cadrul ITFest se desfășoară conferințe facilitate de reprezentanți ai unor companii de IT, care au ocazia să interacționeze cu studenții, să le raspundă la intrebări și să ofere cadrul necesar pentru discuțiile cu privire la posibila angajare. In cadrul workshopurilor se vor aborda teme care se pliază pe nevoile tinerilor din comnunitatea timișoreană, dar și pe profilul unor companii.',
-        date: '27.10.2020',
+        title: 'Conferința deschidere',
+        description: 'Sfaturi pentru o carieră de success în IT.',
+        date: '02.11.2020',
+        hours: '19:00',
+        deadline: '01.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
+        title: 'Webinar Ramon Năstase',
+        description: 'Cum să obții un job în IT în 12 luni făra nicio experiență anterioară.',
+        date: '03.11.2020',
+        hours: '18:00',
+        deadline: '02.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
+        title: 'Webinar Cristian Dascălu',
+        description: 'Despre bani în freelancing.',
+        date: '18:00',
         hours: '14:00-16:00',
+        deadline: '03.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
+        title: 'DrinkIT',
+        description: '',
+        date: '05.11.2020',
+        hours: '-',
+        deadline: '04.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
+        title: 'Te fac Programator',
+        description: '',
+        date: '10.11.2020',
+        hours: '-',
+        deadline: '09.11.2020'
     },
 ];
 
@@ -33,6 +66,52 @@ const concurs_events = [
         hours: '14:00-16:00',
         deadline: '14.11.2020'
     },
+]
+
+const lanparty_events = [
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        title: 'ROCKET LEAGUE',
+        description: '',
+        date: '27.10.2020',
+        hours: '14:00-16:00',
+        deadline: '01.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        title: 'HEARTHSTONE',
+        description: '',
+        date: '27.10.2020',
+        hours: '14:00-16:00',
+        deadline: '01.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        title: 'LEAGUE OF LEGENDS',
+        description: '',
+        date: '27.10.2020',
+        hours: '14:00-16:00',
+        deadline: '01.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        title: 'BOARD GAMES',
+        description: '',
+        date: '27.10.2020',
+        hours: '14:00-16:00',
+        deadline: '01.11.2020'
+    },
+    {
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
+        title: 'CS:GO',
+        description: '',
+        date: '27.10.2020',
+        hours: '14:00-16:00',
+        deadline: '01.11.2020'
+    }
+]
+
+const iconical_events = [
     {
         img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/iconical.JPG?alt=media&token=8ef80bf5-719f-4c7e-a0fe-7cad33d0a488',
         title: 'ICONICAL',
@@ -43,14 +122,4 @@ const concurs_events = [
     },
 ]
 
-const lanparty_events = [
-    {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/lanparty.jpg?alt=media&token=a75ce040-db28-443c-a686-0c3c501d910c',
-        title: 'LAN PARTY-URI',
-        description: 'Sectiunea de LAN Party se adresează tuturor pasionaților de jocuri video, oferindu-le șansa de a-și demonstra abilitățile de a lucra într-o echipă. In fiecare an alegem un set de jocuri online sau offline care sa bucură de un număr mare de jucători și fani. Printre acestea se regăsesc: League of Legends, Counter Strike: Global Offensive, Hearthstone și multe altele.',
-        date: '27.10.2020',
-        hours: '14:00-16:00'
-    }
-]
-
-export default { workshop_events, concurs_events, lanparty_events };
+export default { workshop_events, concurs_events, lanparty_events, iconical_events };

@@ -2,7 +2,7 @@
 
 const team = [
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/gabriela.jpg?alt=media&token=d673cb17-ec1a-4845-9636-7f9e757277d3',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/team%2Fgabe.png?alt=media&token=f0d4ca2f-737b-42fd-ae83-669da3d114c8',
         name: 'Gabriela Mariuțac',
         title: 'Responsabil Fundraising',
         phone: '0722 537 749',
@@ -42,7 +42,7 @@ const team = [
         fb: 'https://www.facebook.com/teodora.mihaela.7'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/adela.jpg?alt=media&token=ee7855ed-894c-4ab0-80e3-d4c3ec4992b5',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/team%2Fadela.png?alt=media&token=4f5141ea-ddb6-4a52-be11-2a2fcd59d26a',
         name: 'Adela Diana Dînşorean',
         title: 'Responsabil Task Management',
         phone: '0730 297 871',
@@ -66,7 +66,7 @@ const team = [
         fb: 'https://www.facebook.com/smecta112'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/voda.jpg?alt=media&token=5378b695-bcfc-4025-bca0-e4d358b4eb40',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/team%2Fvoda.png?alt=media&token=77bf74bc-10c1-4a1c-92bb-b73b464d5231',
         name: 'Darian-Florian Vodă',
         title: 'Coordonator proiect',
         phone: '0764 621 390',
@@ -74,7 +74,7 @@ const team = [
         fb: 'https://www.facebook.com/Darian.Florian/'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/voda.jpg?alt=media&token=5378b695-bcfc-4025-bca0-e4d358b4eb40',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/team%2Fbreha.png?alt=media&token=378467de-4513-4b6a-a431-f8fb60341f08',
         name: 'Adrian-Alexandru Breha',
         title: 'Președinte OSUT',
         phone: '0748 322 663',

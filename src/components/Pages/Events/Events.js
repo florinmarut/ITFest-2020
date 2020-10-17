@@ -11,7 +11,7 @@ function Events() {
     <div className='events__container'>
     {events.workshop_events.map((event) => {
         return <EventCard img={event.img} title={event.title} description={event.description}
-            date={event.date} hours={event.hours}/>
+            date={event.date} hours={event.hours} deadline={event.deadline}/>
     })}
     {/* <ParticlesBackground /> */}
     </div>
@@ -19,14 +19,21 @@ function Events() {
     <div className='events__container'>
     {events.concurs_events.map((event) => {
         return <EventCard img={event.img} title={event.title} description={event.description}
-            date={event.date} hours={event.hours}/>
+            date={event.date} hours={event.hours} deadline={event.deadline}/>
     })}
     </div>
     <h1 className="events__title">LAN PARTY</h1>
     <div className='events__container'>
     {events.lanparty_events.map((event) => {
         return <EventCard img={event.img} title={event.title} description={event.description}
-            date={event.date} hours={event.hours}/>
+            date={event.date} hours={event.hours} deadline={event.deadline}/>
+    })}
+    </div>
+    <h1 className="events__title">iConical</h1>
+    <div className='events__container'>
+    {events.iconical_events.map((event) => {
+        return <EventCard img={event.img} title={event.title} description={event.description}
+            date={event.date} hours={event.hours} deadline={event.deadline}/>
     })}
     </div>
     </div>);

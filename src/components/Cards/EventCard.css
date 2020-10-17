@@ -6,6 +6,7 @@
     padding: 15px;
     margin: 30px;
     max-width: 500px;
+    min-height: 500px;
     position: relative;
     text-align: center;
 }
