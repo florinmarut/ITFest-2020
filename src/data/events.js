@@ -1,7 +1,7 @@
 const workshop_events = [
     {
         img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/workshop.JPG?alt=media&token=9a27be53-bf12-4bb4-b2c7-5f10b53d70b0',
-        title: 'Conferință de deschidere',
+        title: 'Webinar cu Radu Popescu',
         description: 'Sfaturi pentru o carieră de success în IT.',
         date: '02.11.2020',
         hours: '19:00',

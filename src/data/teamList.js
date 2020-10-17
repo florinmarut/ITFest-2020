@@ -50,7 +50,7 @@ const team = [
         fb: 'https://www.facebook.com/dinsorean.adela'
     },
     {
-        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/delia.jpg?alt=media&token=eaa130d6-70e6-4bca-acb0-98eab7377dfe',
+        img: 'https://firebasestorage.googleapis.com/v0/b/mytestproject-d6bc5.appspot.com/o/team%2Fdelia.png?alt=media&token=4e7b0cbf-25ae-43aa-b183-8b66f18cdb06',
         name: 'Delia Andreea Didiță',
         title: 'Responsabil Conferințe și Workshopuri',
         phone: '0749 509 309',

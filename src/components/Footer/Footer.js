@@ -7,7 +7,7 @@ function Footer(){
         <div className='footer__container'>
         <div className='footer__container--logo'>
             <img src={logoURI} alt='OSUT' className='footer__logo'></img>
-            <p className='footer__'>Finanțat de CJ Timiș</p>
+            <p className='footer__'>Cofinanțat de CJ Timiș</p>
         </div>
         <div className='footer__separator'></div>
             <ul className='footer__info'>
@@ -17,6 +17,7 @@ function Footer(){
             </ul>
             <div className='footer__separator'></div>
             <ul className='footer__info--social'>
+                <p></p>
                 <li><a href='https://www.facebook.com/ITFestTimisoara'><i class="footer-icon fab fa-facebook fa-3x"></i></a></li>
                 <li><a href='https://www.instagram.com/itfest.timisoara/'><i class="footer-icon fab fa-instagram fa-3x"></i></a></li>
             </ul>
