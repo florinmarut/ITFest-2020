@@ -19,8 +19,6 @@
         margin: auto;
         text-align: center;
     }
-<<<<<<< HEAD
-=======
     
     .input__field{
         margin: 15px 15px;
@@ -31,5 +29,4 @@
         flex-direction: column;
         margin: 10px 50px 70px 50px;
     }
->>>>>>> 4dd87ef59ada91ef6c600a859673dfc76fec1904
 }
